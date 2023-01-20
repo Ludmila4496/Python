@@ -30,4 +30,4 @@ def prime_numbers(numb):
     print(list_nums) 
 
 num = int(input("Введите число: "))
-prime_numbers(num)     
+prime_numbers(num)       
